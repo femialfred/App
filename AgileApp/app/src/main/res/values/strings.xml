@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="tab_text_1">NEWS</string>
+    <string name="tab_text_2">EVENTS</string>
+    <string name="tab_text_3">DISCOVERY</string>
+    <string name="tab_text_4">RESOURCES</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="AgileApp"></string>
+    <string name="mypara">AGILE OVERVIEW
+Agile is a set of principles for software development, which promotes adaptive planning, incremental development, early delivery, and continuous improvement. Agile also advocates rapid adaptation to changes. These principles are shared in the  Declaration of Flexible Software Development and the 12 Principles behind it .
+
+Agile does not define a specific way to achieve this, but there are many different software development methods that satisfy and follow those criteria.
+
+The purpose of the Agile methods is to help businesses achieve agility, thereby enhancing competitiveness and sustainable development. Agile methods have changed the face of the world not only in Software Development, but also in other fields such as Marketting (Agile Marketting), Education (EduScrum, Lean Edu, etc.), design Lean UX, Design Thinking, Lean Startup and Hardware.
+
+History
+In the period before the 90s of the 20th century, there was a crisis in software development world. The reason for this is that traditional methods are increasingly exposed to many of the downsides and projects that fail too high. There are many individuals and companies that have explored and developed different approaches to adapt to the new situation, in which the rapidly changing business and technology environments are changing. Traditional development methods are no longer appropriate. These individual methods partly solve some problems, but there are other issues of sharing, collaboration, techniques, tools, extensions, development directions, etc.
+
+Consequently, in February 2001, 17 programmers representing these new development methods met in Utah. They came to a consensus on common views among the methods and produced a document called: Flexible Software Development,  along with 12 principles. This is the time when the term Agile is used today, although individual methods have existed before.
+
+Characteristics
+Turns, grows : Most agile methods divide jobs into small cycles and do not make a long-term plan. Each cycle is full of stages, from planning to analysis and design, coding, testing, integration to delivering a portion of product growth .
+Communicate regularly and effectively : Each group needs a representative to work with (for example, Scrum is the Product Owner ). This person represents the interests of the people involved and is responsible for clarifying all requirements for the developer.
+Short feedback loop and frequent adaptation : Developers frequently exchange information for updating and synchronizing tasks, detecting obstacles and responding to new situations.
+User Quality : Many techniques and tools used to aim to raise the quality of products, such as: Integrated Continuous , Test Unit Automation, Programming pair, Developing User Testing , Template Design, Code Redesign , etc.
+Agile methods
+The following is a list of common Agile methods (in addition there are some other less common methods):
+
+ASD - Adaptive Software Development
+Agile Modeling
+AUP - Agile Unified Process
+Crystal Clear
+DSDM - Dynamic System Development Method
+XP - Extreme Programming
+FDD - Feature Driven Development
+Lean Software Development
+Kanban
+Scrum
+Scrumban
+…
+See also: Video: Agile / Scrum?
+
+TAGS: AGILE , STARTUP , SCRUM , AGILE MANIFESTO
+Share this entry
+    </string>
+</resources>

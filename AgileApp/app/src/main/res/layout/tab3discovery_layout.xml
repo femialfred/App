@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="388dp"
+            android:layout_height="154dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_agile_pidia" />
+
+        <GridView
+            android:id="@+id/myGrid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnWidth="130dp"
+            android:paddingTop="150dp"
+            android:gravity="center"
+            android:horizontalSpacing="1dp"
+            android:numColumns="auto_fit"
+            android:padding="5dp"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="1dp" />
+
+</LinearLayout>

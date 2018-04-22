@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016080501110",
+    "firebase_url": "https://agileapp-71dc1.firebaseio.com",
+    "project_id": "agileapp-71dc1",
+    "storage_bucket": "agileapp-71dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016080501110:android:bf03e469b9365af6",
+        "android_client_info": {
+          "package_name": "com.example.femialfred.agileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016080501110-p0hssararttgpqc6up38qqnlkovbi4bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.femialfred.agileapp",
+            "certificate_hash": "f52293547185d4ba3321b9a55436eb9016aa7324"
+          }
+        },
+        {
+          "client_id": "1016080501110-b4bapmma6uje5egpia4k0oef4cl9s8od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzP8VbhZgHD8_oPEV8RrzsXNqDTu_Hk-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016080501110-b4bapmma6uje5egpia4k0oef4cl9s8od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
